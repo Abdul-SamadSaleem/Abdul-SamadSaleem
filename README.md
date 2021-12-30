@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Abdul-SamadSaleem
+- 👀 I’m interested in Coding and UI/UX Design
+- 🌱 I Currently know: HTML, CSS, JS, ReactJS, Python, Java and Learning PHP
+- 🤩 I’m looking to collaborate on design within websites
+- 📫 How to reach me harris.saleem8@gmail.com
